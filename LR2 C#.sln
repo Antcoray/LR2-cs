@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR2 C# Task_1", "LR2 C# Task_1.csproj", "{5F14A6A3-5DBE-4221-B8E5-4791D6CFA535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR2 C# Task_2", "..\LR2 C# Task_2\LR2 C# Task_2.csproj", "{CEA5D1FD-73F1-4E9B-BAA8-D5CB0DA58EF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5F14A6A3-5DBE-4221-B8E5-4791D6CFA535}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F14A6A3-5DBE-4221-B8E5-4791D6CFA535}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F14A6A3-5DBE-4221-B8E5-4791D6CFA535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA5D1FD-73F1-4E9B-BAA8-D5CB0DA58EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA5D1FD-73F1-4E9B-BAA8-D5CB0DA58EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA5D1FD-73F1-4E9B-BAA8-D5CB0DA58EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA5D1FD-73F1-4E9B-BAA8-D5CB0DA58EF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
